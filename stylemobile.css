@@ -60,7 +60,15 @@ header {
 .herobanner_img {
   width: 100%;
   height: auto;
+  display: none;
+}
+
+.herobanner_img_mobile{
+  margin-top: 20px;
   display: block;
+  width: 100%;
+  height: auto;
+ 
 }
 
 .herobanner_text {

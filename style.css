@@ -42,6 +42,9 @@ header {
   object-position: left;
   display: block;
 }
+.herobanner_img_mobile{
+  display: none;
+}
 
 .herobanner_text {
   background-color: rgba(241, 244, 248, 0.5);
